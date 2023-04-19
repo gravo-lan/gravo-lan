@@ -12,3 +12,5 @@ Hi there! 👋 I am Gravo-Lan. I am a full-stack backend developer who likes tin
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gravo-lan&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravo-lan&count_private=true&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+<p align="right"> <a href="https://github.com/zifuyang">Zifu</a> | <a href="https://github.com/Art3mis647">art3mis</a> </p>
