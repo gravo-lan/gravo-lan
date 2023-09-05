@@ -11,7 +11,7 @@ Hi there! 👋 I am Gravo-Lan. I am a full-stack backend developer who likes tin
 <code><img height="20" alt="python" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/python/python.png"></code>
 <code><img height="20" alt="java" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/java/java.png"></code>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gravo-lan&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=true&rank_icon=percentile" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravo-lan&count_private=true&theme=dark&hide_border=true&layout=donut&lang_counts=20" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gravo-lan&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=true" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gravo-lan&count_private=true&theme=dark&hide_border=true&layout=donut&lang_counts=20" /></a> |
 | ------------- | ------------- |
 
 <p align="right"> <a href="https://github.com/zifuyang">Zifu</a> | <a href="https://github.com/Art3mis647">art3mis</a> </p>
