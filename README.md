@@ -1,6 +1,6 @@
 ### Gravo-Lan's Portfolio 📁 
 
-Hi there! 👋 I am Gravo-Lan. I am a full-stack backend developer who likes tinkering with many programming langauges. I am currently studying in Hong Kong, and learning many different langauges such as Python, ZSH, Javascript, HTML, CSS, Typescript, and Swift. Feel free to look around my profile (even though I might not currently have much to showcase) and take inspiration from any code you find interesting (with credit!)
+Hi there! 👋 I am Gravo-Lan. I am a full-stack backend developer who likes tinkering with many programming langauges. I am currently studying in Hong Kong, and learning many different langauges such as Java, Python, ZSH, Javascript, HTML, CSS, Typescript, and Swift. Feel free to look around my profile (even though I might not currently have much to showcase) and take inspiration from any code you find interesting (with credit!)
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
